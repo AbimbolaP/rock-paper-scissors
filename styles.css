@@ -48,7 +48,7 @@ body {
   justify-content: space-between;
   width: 100%;
   gap: 16px;
-  padding: 20px;
+  padding: 10px;
 }
 
 .choice {
@@ -56,7 +56,7 @@ body {
   padding: 20px;
   font-size: 20px;
   font-weight: 600;
-  min-width: 300px;
+  min-width: 320px;
   border: 1px solid rgb(122, 212, 182); ;
   border-radius: 30px;
 }
@@ -95,6 +95,6 @@ button:hover {
   border: 1px solid azure;
   border-radius: 30px;
   padding: 20px;
-  min-width: 300px;
+  min-width: 320px;
   background-color: rgb(122, 212, 182);
 }
