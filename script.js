@@ -40,7 +40,7 @@ function generateResult () {
     result = 'you win!'
   }
   if ((computerChoice === "rock" && userChoice === 'scissors') || (computerChoice === "paper" && userChoice === 'rock') || (computerChoice === "scissors" && userChoice === 'paper')) {
-    result = 'you lost!'
+    result = 'you lose!'
   }
  
   resultDisplay.innerHTML = result;
